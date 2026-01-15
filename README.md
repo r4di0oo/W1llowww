@@ -42,12 +42,6 @@ $${\color{#FAC6DCFF} ୨𝑒 ꒱ \space she \space / \space her \space :: \space
 ![NkCvA3V](https://github.com/user-attachments/assets/099a6815-e022-4da0-9eda-1c75a3dd1c85)
 ₊˚ ┊ bullet three
 
-![NkCvA3V](https://github.com/user-attachments/assets/099a6815-e022-4da0-9eda-1c75a3dd1c85)
-₊˚ ┊ bullet four
-
-![NkCvA3V](https://github.com/user-attachments/assets/099a6815-e022-4da0-9eda-1c75a3dd1c85)
-₊˚ ┊ bullet five
-
   
 </details>
 
@@ -63,11 +57,6 @@ $${\color{#FAC6DCFF} ୨𝑒 ꒱ \space she \space / \space her \space :: \space
 ![QgrNNSU](https://github.com/user-attachments/assets/a9ec07b2-b104-4243-ad01-35aa2de741e7)
 ₊˚ ┊ bullet three
 
-![QgrNNSU](https://github.com/user-attachments/assets/a9ec07b2-b104-4243-ad01-35aa2de741e7)
-₊˚ ┊ bullet four
-
-![QgrNNSU](https://github.com/user-attachments/assets/a9ec07b2-b104-4243-ad01-35aa2de741e7)
-₊˚ ┊ bullet five
 
   
 </details>
@@ -83,12 +72,6 @@ $${\color{#FAC6DCFF} ୨𝑒 ꒱ \space she \space / \space her \space :: \space
 
 ![NkCvA3V](https://github.com/user-attachments/assets/099a6815-e022-4da0-9eda-1c75a3dd1c85)
 ₊˚ ┊ bullet three
-
-![NkCvA3V](https://github.com/user-attachments/assets/099a6815-e022-4da0-9eda-1c75a3dd1c85)
-₊˚ ┊ bullet four
-
-![NkCvA3V](https://github.com/user-attachments/assets/099a6815-e022-4da0-9eda-1c75a3dd1c85)
-₊˚ ┊ bullet five
 
   
 </details>
