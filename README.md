@@ -20,7 +20,7 @@
 
 $${\color{#FAC6DCFF} dani \space !}$$
 
-$${\color{#FAC6DCFF} she \space / \space her \space :: \space they \space them}$$
+$${\color{#FAC6DCFF} she \space / \space her \space :: \space they \space / \space them}$$
 
 
 <img width="1265" height="242" alt="2026_01_14_0yh_Kleki" src="https://github.com/user-attachments/assets/2dece404-0603-4953-b347-1fa6d5516f0b" />
